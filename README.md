@@ -1,6 +1,6 @@
-# Kjlogisticdelivery
-Giving you the best of our services
-Always at your service 
+# KJ-logistics-and-delivery-
+# KJ Logistics and Delivery
+
 A global parcel delivery company.  
 This is the official website hosted with GitHub Pages.
 
@@ -10,4 +10,4 @@ This is the official website hosted with GitHub Pages.
 - Contact form
 
 ## Contact
-Email: [kjlogisticdelivery@gmail.com](mailto:kjlogisticdelivery@gmail.com)
+Email: [kjlogistic@gmail.com](mailto:kjlogistic@gmail.com)
